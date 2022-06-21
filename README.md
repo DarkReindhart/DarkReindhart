@@ -56,9 +56,17 @@ REACT | Redux | CSS | HTML | JavaScript | NodeJS | Express | PostgreSQL | Sequel
 ![image](https://user-images.githubusercontent.com/81201679/174883927-c8da1e3f-13bc-4c17-b768-02a461b0185f.png)
 ![image](https://user-images.githubusercontent.com/81201679/174884162-daf16c59-8add-47c6-aed6-965f13c04808.png)
 
+---
 ### Luxurent
-
-
+![image](https://user-images.githubusercontent.com/81201679/174885154-b659617e-29c9-4a94-92f3-2d6b506e4c51.png)
+![image](https://user-images.githubusercontent.com/81201679/174885295-3f9a571d-902f-4c37-aafb-409f537bdd8f.png)
+![image](https://user-images.githubusercontent.com/81201679/174885353-1cafdfc7-cd58-4c65-8249-8dfa23ec3e26.png)
+![image](https://user-images.githubusercontent.com/81201679/174886322-1fd62916-4cbd-4a03-ba84-5fba1be933fc.png)
+![image](https://user-images.githubusercontent.com/81201679/174886416-dd5de188-664b-4a73-90d6-420d1c6910e8.png)
+![image](https://user-images.githubusercontent.com/81201679/174886519-48854204-250b-4cbd-8e1d-41b276b25059.png)
+![image](https://user-images.githubusercontent.com/81201679/174886586-7144e1c2-7513-491f-aecb-73a8a2e31dc3.png)
+![image](https://user-images.githubusercontent.com/81201679/174886672-eb43521c-29a8-4d1d-ad06-61f65eba8d81.png)
+---
 
 
 
