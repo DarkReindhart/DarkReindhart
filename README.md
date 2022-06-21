@@ -72,13 +72,6 @@ REACT | Redux | CSS | HTML | JavaScript | NodeJS | Express | PostgreSQL | Sequel
 <img src="https://user-images.githubusercontent.com/81201679/174886672-eb43521c-29a8-4d1d-ad06-61f65eba8d81.png" width="700"/>
 </p>
 
-
-
-
-
-
-
-
 <!--
 **DarkReindhart/DarkReindhart** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
