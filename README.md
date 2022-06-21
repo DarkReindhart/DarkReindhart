@@ -41,7 +41,7 @@ REACT | Redux | CSS | HTML | JavaScript | NodeJS | Express | PostgreSQL | Sequel
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="https://wa.me/56942570064" target="_blank">
-    <img src="https://img.shields.io/badge/WhatsApp-brightgreen?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
+    <img src="https://img.shields.io/badge/WhatsApp-2BBB42?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
   </a>
   <a href="mailto:renatozapgon@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
@@ -53,10 +53,11 @@ REACT | Redux | CSS | HTML | JavaScript | NodeJS | Express | PostgreSQL | Sequel
 ### FOOD PI
 ![image](https://user-images.githubusercontent.com/81201679/174883012-137554bd-6555-48c5-aaca-ec43e1becc4e.png)
 ![image](https://user-images.githubusercontent.com/81201679/174883355-0b4ae3d1-8595-4ac3-b7e8-b3a384c0fdf6.png)
-![image](https://user-images.githubusercontent.com/81201679/174883436-ea0bc57c-8263-49b3-b2d5-bb8504d41712.png)
-
+![image](https://user-images.githubusercontent.com/81201679/174883927-c8da1e3f-13bc-4c17-b768-02a461b0185f.png)
+![image](https://user-images.githubusercontent.com/81201679/174884162-daf16c59-8add-47c6-aed6-965f13c04808.png)
 
 ### Luxurent
+
 
 
 
