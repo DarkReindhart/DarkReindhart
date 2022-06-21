@@ -71,7 +71,7 @@ REACT | Redux | CSS | HTML | JavaScript | NodeJS | Express | PostgreSQL | Sequel
 <img src="https://user-images.githubusercontent.com/81201679/174886586-7144e1c2-7513-491f-aecb-73a8a2e31dc3.png" width="700"/>
 <img src="https://user-images.githubusercontent.com/81201679/174886672-eb43521c-29a8-4d1d-ad06-61f65eba8d81.png" width="700"/>
 </p>
----
+
 
 
 
