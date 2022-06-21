@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+![image](https://user-images.githubusercontent.com/81201679/174867920-2069b8bd-164b-44c6-a7e2-fd8d5a22344d.png)
+
+
 <!--
 **DarkReindhart/DarkReindhart** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
