@@ -13,7 +13,7 @@
 ---
 
 ### :man_technologist: About Me:
-I'm a 32 years old Chilean programmer, currently focused on learning more about web development and other technologies that can help me improve in it, to include it with the skills i have attained through the years (Full Stack Development, AGILE frameworks like SCRUM). I'm always trying to learn new technologies (self-taught) or with help from friend programmers.
+I'm a 32 years old Chilean programmer, currently focused on learning more about web development and other technologies that can help me improve in it, to include it with the skills i have attained through the years (Full Stack Development, AGILE frameworks like SCRUM). I'm always trying to learn new technologies (self-taught) or with help from friend programmers. Also, i have a degree in Computer and Informatics Engineer, as well as a Master in Marine Biology.
 
 ---
 
